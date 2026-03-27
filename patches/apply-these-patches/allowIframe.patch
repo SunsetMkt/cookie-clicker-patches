@@ -1,0 +1,13 @@
+diff --git a/public/main.js b/public/main.js
+index 35e4998..3c32b29 100644
+--- a/public/main.js
++++ b/public/main.js
+@@ -16864,7 +16864,7 @@ window.onload=function()
+ 				LoadLang('loc/'+lang+'.js?v='+Game.version,function(){
+ 					var launch=function(){
+ 						Game.Launch();
+-						if (top!=self) Game.ErrorFrame();
++						if (false) Game.ErrorFrame();
+ 						else
+ 						{
+ 							console.log('[=== '+choose([

@@ -1,0 +1,13 @@
+diff --git a/public/index.html b/public/index.html
+index f10088d..d8de322 100644
+--- a/public/index.html
++++ b/public/index.html
+@@ -1,7 +1,7 @@
+ ﻿<!DOCTYPE html>
+ <html>
+ <head>
+-<link href='../steam/fonts.css' rel='stylesheet' type='text/css'><script src="../steam/steam.js"></script>
++<link href='fonts.css' rel='stylesheet' type='text/css'><script src="steam.js"></script>
+ 
+ <title>Cookie Clicker</title>
+ <!--
