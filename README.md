@@ -22,6 +22,10 @@ Copy `patches\put-all-to-public\*` to `public`.
 
 Apply `patches\apply-these-patches\*.patch`.
 
+### Optional: Beta
+
+Copy `index.html` to `beta.html` to enable beta mode.
+
 ### Host
 
 Host `public` on a web server.
