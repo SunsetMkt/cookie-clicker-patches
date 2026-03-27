@@ -10,4 +10,4 @@ Educational patches to make Cookie Clicker Steam version run in browser.
 
 ### Copy
 
-Copy `Cookie Clicker\resources\app\*` to `public`.
+Copy `Cookie Clicker\resources\app\src\*` and `Cookie Clicker\resources\app\steam\*` to `public`.
